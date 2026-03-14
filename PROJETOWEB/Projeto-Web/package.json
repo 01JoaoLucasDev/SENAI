@@ -1,0 +1,16 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "A web project for user authentication with login and registration screens, including address autofill functionality using the ViaCEP API.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
