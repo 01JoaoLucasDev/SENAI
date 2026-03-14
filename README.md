@@ -1,6 +1,9 @@
 # SENAI Technical Course Activities and Projects
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3a6780a8314fbb2b866a796b64cb76273d377db9
 ## 📖 Descrição
 
 Este repositório contém uma coleção completa das atividades, exercícios e projetos desenvolvidos durante o meu curso técnico em Desenvolvimento de Sistemas pelo SENAI. O conteúdo abrange desde exercícios básicos de programação em Java até projetos mais avançados envolvendo APIs REST, aplicações web e sistemas de banco de dados.
